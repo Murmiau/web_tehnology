@@ -1,0 +1,60 @@
+html {
+    background-color: #1604696e;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 18pt;
+    color: #d43636;
+}
+
+p {
+    font-style: italic;
+    font-size: 15pt;
+    color: #00f2ff;
+}
+
+a {
+    color: #de38b7;
+}
+
+a:hover {
+    color: aquamarine;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 16pt;
+    color: #14ec2ae4;
+}
+
+h3 {
+    font-style: italic;
+    font-size: 14pt;
+    color: #c9ff19;
+}
+
+ol {
+    font-size: 14pt;
+    color: #8abaeb;
+    font-style: italic;
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+ul {
+    font-size: 14pt;
+    color: #ee0f0f;
+    font-style: italic;
+    list-style-position: inside;
+    list-style-type: disc;
+}
+
+img {
+    width: 700px;
+}
+
+.block {
+    text-align: center;
+    border: 2px solid rgb(207, 255, 86);
+}

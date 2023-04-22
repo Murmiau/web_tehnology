@@ -1,0 +1,35 @@
+html {
+    background-color: #affcf4b1;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 18pt;
+    color: #1f062d;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 16pt;
+    color: #3d045f;
+}
+
+img {
+    width: 700px;
+}
+
+.stacked-linear {
+    background:
+        radial-gradient(circle at 50% 0,
+            rgba(255, 0, 0, .5),
+            rgba(255, 0, 0, 0) 70.71%),
+        radial-gradient(circle at 6.7% 75%,
+            rgba(0, 0, 255, .5),
+            rgba(0, 0, 255, 0) 70.71%),
+        radial-gradient(circle at 93.3% 75%,
+            rgba(0, 255, 0, .5),
+            rgba(0, 255, 0, 0) 70.71%) beige;
+    border-radius: 50%;
+    text-align: center;
+    border: 5px solid rgb(207, 255, 86);
+}
